@@ -11,6 +11,7 @@ A command-line application to create necessary files for running nginx on the cu
 ## About
 
 nginit is a simple command-line application that generates configuration files, logs, and temporary directories for a basic nginx setup. It is designed to make it easy to get started with nginx development.
+
 ## Usage/Examples
 
 To use nginit, simply run the application in the terminal or command prompt. You can also pass arguments to customize the behavior.
@@ -61,7 +62,7 @@ Contributions are always welcome! If you find any issues or have suggestions, pl
 ## License
 
 License
-nginit is licensed under the [MIT License](https://github.com/h4jack/nginit/license.md/). See the LICENSE file for details.
+nginit is licensed under the [MIT License](https://github.com/h4jack/nginit/blob/main/LICENSE/). See the LICENSE file for details.
 
 
 ## 🔗 Links
